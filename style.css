@@ -1,0 +1,19 @@
+body{
+    background: #333;;
+   
+  
+}
+
+img{
+    width: 100px;
+    position: relative;
+    top: 200px;
+    right: 180px;
+}
+button{
+    padding: 5px;
+    border-radius: 10px;
+    background-color: #333;
+    color: azure;
+    box-shadow: 5px 5px black 0.1;
+}
